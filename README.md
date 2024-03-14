@@ -3,7 +3,7 @@
 # Project motivation
     Help an organization to improve employee performance and improve employee retention (reduce
     attrition) by creating a HR Analytic dashboard.
-# Project motivation
+# Result 
     •	Identified key factors to reduce attrition.
     •	Improve the hiring process
     •	Improve employee experience
